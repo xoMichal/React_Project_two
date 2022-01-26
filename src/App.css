@@ -29,6 +29,7 @@
       flex-direction: row;
       width: 200px;
       height: 250px;
+      margin-bottom: 20px;
       
   
   }
@@ -120,6 +121,7 @@
       flex-direction: row;
       width: 200px;
       height: 200px;
+      margin-bottom: 0px;
   
   }
   
